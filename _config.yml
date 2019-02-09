@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://www.hayatosum.com
-title: 角野隼斗 - Hayato Sumino
+title: 角野隼斗 Hayato Sumino Official Website
 lefttop: Hayato Sumino
 email: hay88.sum10ms@gmail.com
 author: Hayato Sumino
-description: これはピアニスト角野隼斗のホームページです。
+description: ピアニスト角野隼斗のオフィシャルホームページです。1995年生まれ。2018年、ピティナピアノコンペティション特級グランプリ、及び文部科学大臣賞、スタインウェイ賞受賞。現在、東京大学情報理工学系研究科修士1年生。
 copyright: 'Copyright &copy; 2019 Hayato Sumino. All Rights Reserved.'
 # credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
@@ -57,7 +57,7 @@ concerts:
   - layout: default
     img: 20190320.png
     category: Concerts
-    title: アグネスホール ランチタイムコンサート【完売】
+    title: アグネスホール ランチタイムコンサート
     content: 日時：3月20日（水）12時半開演<br>会場：<a href="https://www.agneshotel.com/access/">アグネスホテル東京B1F アグネスホール</a><br> 料金：無料（予約不要）<br> 曲目：カプースチン：フルート、チェロとピアノのための三重奏曲他
 
   - layout: default

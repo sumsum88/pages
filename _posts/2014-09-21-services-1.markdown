@@ -2,7 +2,7 @@
 layout: default
 img: yamaha.png
 category: Services
-title: Artist interview
+title: YAMAHA Pianist Lounge Interview
 description: |
 ---
-  [YAMAHA Pianist Lounge （ピアニスト・ラウンジ）アーティストインタビュー](https://jp.yamaha.com/sp/products/keyboards/pianist-lounge/interview/hayatosumino/p1/) にインタビューが掲載されました。(2018.10.5)
+  [YAMAHA Pianist Lounge （ヤマハ・ピアニスト・ラウンジ）](https://jp.yamaha.com/sp/products/keyboards/pianist-lounge/interview/hayatosumino/p1/) にインタビューが掲載されました。(2018.10.5)

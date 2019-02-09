@@ -35,5 +35,17 @@ concerts:
   - layout: default
     img: 20190219.png
     category: Concerts
-    title: Hakujuベーゼンドルファー・サロンコンサートシリーズ ランチタイム・コンサート　角野隼斗【完売】
-    content: 会場：白寿本社ビル１階（東京）、<br> 料金：ランチチケット付2,500円　コンサートのみ1,500円、<br> 曲目：ショパン：ピアノ・ソナタ 第2番 変ロ短調 Op.35 「葬送」 全楽章<br> スクリャービン：ピアノ・ソナタ　第5番 Op.53<br>他
+    title: Hakujuベーゼンドルファー・サロンコンサートシリーズ ランチタイム・コンサート【完売】
+    content: 日時：2月19日（火）12時開演<br>会場：<a href="https://www.hakujuhall.jp/access/index.html">白寿本社ビル１階（東京）</a><br> 料金：ランチチケット付2,500円　コンサートのみ1,500円<br> 曲目：ショパン：ピアノ・ソナタ 第2番 変ロ短調 Op.35 「葬送」 全楽章<br> スクリャービン：ピアノ・ソナタ　第5番 Op.53<br>他
+
+  - layout: default
+    img: 20190316.png
+    category: Concerts
+    title: YAMAHA Salon Concert in Osaka　特級グランプリ褒賞演奏会
+    content: 日時：3月16日（土）14時開演<br>会場：<a href="https://jp.yamaha.com/sp/piano/dealers_showrooms/showrooms/gps_osaka/access/">ヤマハグランドピアノサロン大阪</a><br> 料金：無料（要予約）<br> 曲目：ベートーヴェン：ピアノ・ソナタ 第21番 ハ長調「ワルトシュタイン」 Op.53<br>ショパン：ポロネーズ第6番　変イ長調　Op.53<br>スクリャービン：ピアノ・ソナタ 第5番 Op.53 他
+
+  - layout: default
+    img: 20190317.png
+    category: Concerts
+    title: YAMAHA Salon Concert in Nagoya　特級グランプリ褒賞演奏会【完売】
+    content: 日時：3月17日（日）14時開演<br>会場：<a href="https://jp.yamaha.com/sp/piano/dealers_showrooms/showrooms/gps_nagoya/access/">ヤマハグランドピアノサロン名古屋</a><br> 料金：無料（要予約）<br> 曲目：ドビュッシー:喜びの島<br>フォーレ:ノクターン 第6番 Op.63 変ニ長調<br>ショパン：ピアノソナタ第2番 変ロ短調 Op.35 他

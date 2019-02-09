@@ -1,0 +1,31 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://www.hayatosum.com
+title: 角野隼斗 Hayato Sumino 公式ホームページ
+email: hay88.sum10ms@gmail.com
+author: Hayato Sumino
+description: これはピアニスト角野隼斗のホームページです。
+copyright: 'Copyright &copy; 2019 Hayato Sumino. All Rights Reserved.'
+credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/880hz
+  - title: instagram
+    url: https://www.instagram.com/8810hz/
+  - title: youtube
+    url: https://www.youtube.com/user/chopin8810

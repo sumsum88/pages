@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: yamaha.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Artist interview
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  [YAMAHA Pianist Lounge （ピアニスト・ラウンジ）アーティストインタビュー](https://jp.yamaha.com/sp/products/keyboards/pianist-lounge/interview/hayatosumino/p1/) にインタビューが掲載されました。(2018.10.5)

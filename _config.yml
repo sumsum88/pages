@@ -31,6 +31,10 @@ social:
   - title: youtube
     url: https://www.youtube.com/user/chopin8810
 
+# ----------------------- #
+#   Concerts              #
+# ----------------------- #
+
 concerts:
   - layout: default
     img: 20190219.png
@@ -49,3 +53,15 @@ concerts:
     category: Concerts
     title: YAMAHA Salon Concert in Nagoya　特級グランプリ褒賞演奏会【完売】
     content: 日時：3月17日（日）14時開演<br>会場：<a href="https://jp.yamaha.com/sp/piano/dealers_showrooms/showrooms/gps_nagoya/access/">ヤマハグランドピアノサロン名古屋</a><br> 料金：無料（要予約）<br> 曲目：ドビュッシー:喜びの島<br>フォーレ:ノクターン 第6番 Op.63 変ニ長調<br>ショパン：ピアノソナタ第2番 変ロ短調 Op.35 他
+
+  - layout: default
+    img: 20190320.png
+    category: Concerts
+    title: アグネスホール ランチタイムコンサート【完売】
+    content: 日時：3月20日（水）12時半開演<br>会場：<a href="https://www.agneshotel.com/access/">アグネスホテル東京B1F アグネスホール</a><br> 料金：無料（予約不要）<br> 曲目：カプースチン：フルート、チェロとピアノのための三重奏曲他
+
+  - layout: default
+    img: 20190324.png
+    category: Concerts
+    title: <a href="http://www.piano.or.jp/concert/yp/">第42回ピティナ・ピアノコンペティション入賞者記念コンサート</a>
+    content: 日時：3月24日（日）13時開演<br>会場：第一生命ホール<br>料金：一般3,500円 ピティナ会員・学生3,000円<br>曲目：カプースチン：フルート、チェロとピアノのための三重奏曲<br>リスト :死の舞踏（サン=サーンス） S.555 R.240

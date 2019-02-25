@@ -37,10 +37,10 @@ social:
 
 concerts:
   - layout: default
-    img: 20190219.png
+    img: 20190303.png
     category: Concerts
-    title: Hakujuベーゼンドルファー・サロンコンサートシリーズ ランチタイム・コンサート【完売】
-    content: 日時：2月19日（火）12時開演<br>会場：<a href="https://www.hakujuhall.jp/access/index.html">白寿本社ビル１階（東京）</a><br> 料金：ランチチケット付2,500円　コンサートのみ1,500円<br> 曲目：ショパン：ピアノ・ソナタ 第2番 変ロ短調 Op.35 「葬送」 全楽章<br> スクリャービン：ピアノ・ソナタ　第5番 Op.53<br>他
+    title: PTNA福井支部入賞者コンサート（ゲスト出演）
+    content: 日時：3月3日（日）13時開演<br>会場：<a href="https://www.hhf.jp/">ハーモニーホールふくい</a><br> 料金：800円<br> 曲目：ショパン：スケルツォ1番<br>ラフマニノフ：ヴォーカリーズ Op.34-11<br>ショパン：ポロネーズ第6番 Op.53<br> リスト：ラ・カンパネラ
 
   - layout: default
     img: 20190316.png
@@ -65,3 +65,9 @@ concerts:
     category: Concerts
     title: <a href="http://www.piano.or.jp/concert/yp/">第42回ピティナ・ピアノコンペティション入賞者記念コンサート</a>
     content: 日時：3月24日（日）13時開演<br>会場：第一生命ホール<br>料金：一般3,500円 ピティナ会員・学生3,000円<br>曲目：カプースチン：フルート、チェロとピアノのための三重奏曲<br>リスト :死の舞踏（サン=サーンス） S.555 R.240
+
+- layout: default
+    img: 20190425.png
+    category: Concerts
+    title: <a href="http://kawai-kmf.com/concert-info/2019/04.25/">2018年 ピティナ・ピアノコンペティション 特級入賞者コンサート</a>
+    content: 日時：4月25日（木）18時半開演<br>会場：カワイ表参道 コンサートサロン「パウゼ」<br>料金：一般 ￥3,000　ピティナ会員 ￥2,500　学生 ￥2,000 （全自由席）※KMF会員特典あり<br>曲目：ショパン：バラード２番<br>ラフマニノフ：ヴォーカリーズ Op.34-11<br>リスト：メフィスト・ワルツ

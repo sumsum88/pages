@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.hayatosum.com
+url: http://hayatosum.com
 title: 角野隼斗 Hayato Sumino Official Website
 lefttop: Hayato Sumino
 email: hay88.sum10ms@gmail.com
@@ -66,7 +66,7 @@ concerts:
     title: <a href="http://www.piano.or.jp/concert/yp/">第42回ピティナ・ピアノコンペティション入賞者記念コンサート</a>
     content: 日時：3月24日（日）13時開演<br>会場：第一生命ホール<br>料金：一般3,500円 ピティナ会員・学生3,000円<br>曲目：カプースチン：フルート、チェロとピアノのための三重奏曲<br>リスト :死の舞踏（サン=サーンス） S.555 R.240
 
-- layout: default
+  - layout: default
     img: 20190425.png
     category: Concerts
     title: <a href="http://kawai-kmf.com/concert-info/2019/04.25/">2018年 ピティナ・ピアノコンペティション 特級入賞者コンサート</a>

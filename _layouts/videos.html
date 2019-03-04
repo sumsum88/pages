@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body>
+
+  {% include header.html %}
+  <div style="padding-top: 50px;"></div>
+  {% include videos.html %}
+  {% include contact.html %}
+  {% include footer.html %}
+  {% include js.html %}
+  {% if site.analytics %}{% include analytics.html %}{% endif %}
+</body>
+</html>

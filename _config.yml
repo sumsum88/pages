@@ -9,7 +9,7 @@ email: hay88.sum10ms@gmail.com
 author: Hayato Sumino
 description: ピアニスト角野隼斗のオフィシャルホームページです。1995年生まれ。2018年、ピティナピアノコンペティション特級グランプリ、及び文部科学大臣賞、スタインウェイ賞受賞。現在、東京大学情報理工学系研究科修士1年生。
 copyright: 'Copyright &copy; 2019 Hayato Sumino. All Rights Reserved.'
-# credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+lang: ja
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -41,3 +41,14 @@ languages: ['ja', 'en']
 default_lang: 'ja'
 exclude_from_localization: ['javascript', 'images', 'css']
 parallel_localization: false
+
+# for seo
+twitter:
+  username: 880hz
+facebook:
+  app_id: hayato.sumino.7
+  publisher: https://www.facebook.com/Hayato-Sumino-1108930259264225
+logo: /img/logo.png
+
+plugins:
+  - jekyll-seo-tag

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body>
+  {% include header.html %}
+
+  <div style="padding-top: 65px;"></div>
+
+  <div class="container">
+  <div class="wrapper">
+      <div style="padding: 30px;" class="">
+        演奏依頼やメッセージ、取材等のお問い合わせなどございましたら、下記のお問い合わせフォームよりお気軽にご連絡くださいませ。こちらより折り返しご連絡させて頂きます。
+      </div>
+      <form action="https://getsimpleform.com/messages?form_api_token=ac553e6e80373ce0817085d6d2714d44" method="post">
+        <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
+        <input type='hidden' name='redirect_to' value='http://hayatosum.com/contact-done' />
+        <!-- all your input fields here.... -->
+        <div class="form-group">
+            <label>お名前</label>
+            <input type="name" id="name" name='name' class="form-control" placeholder="Your Name">
+        </div>
+        <div class="form-group">
+            <label>メールアドレス</label>
+            <input type="email" id="email" name='email' class="form-control" placeholder="Enter email">
+        </div>
+        <label>お問い合わせ内容</label>
+        <textarea class="form-control" id="message" name='message' rows="3" placeholder="Your message"></textarea>
+        <!-- <input type='text' name='message' placeholder="Hello!"/> -->
+        <!-- <input type='submit' value='送信' /> -->
+        <div class="center-block text-center">
+            <button type="submit" style="margin: 15px 0; width: 30%;" class="btn btn-primary">送信</button>
+        </div>
+
+      </form>
+  </div></div>
+
+
+  {% include footer.html %}
+  {% include js.html %}
+</body>
+</html>

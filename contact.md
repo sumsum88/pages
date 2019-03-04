@@ -1,0 +1,4 @@
+---
+layout: inquiry
+permalink: /contact/
+---

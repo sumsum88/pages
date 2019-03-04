@@ -1,0 +1,11 @@
+---
+layout: post
+img: 20190526.jpg
+category: Concerts
+title: 角野隼斗 ピアノリサイタル
+---
+日時：5月26日（日）19時開演 <br>
+会場：<a href="https://www.musashihall.com">音降りそそぐ武蔵ホール</a> <br>
+料金：一般 ￥2,500 学生 ￥2,000（全自由席）<br>
+曲目：ラヴェル 水の戯れ、亡き王女の為のパヴァーヌ <br>ドビュッシー 喜びの島 <br>スクリャービン ソナタ5番 Op.53<br>ラフマニノフ ヴォーカリーズ Op.34-14 <br>ラフマニノフ ソナタ2番(1931年版) 他<br>
+ご予約は<a href="https://t.pia.jp/pia/event/event.do?eventCd=1909033">こちら</a>

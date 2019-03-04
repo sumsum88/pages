@@ -11,12 +11,6 @@ description: ピアニスト角野隼斗のオフィシャルホームページ�
 copyright: 'Copyright &copy; 2019 Hayato Sumino. All Rights Reserved.'
 # credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
-profile:
-  ja: 1995年生まれ。2018年、ピティナピアノコンペティション特級グランプリ、及び文部科学大臣賞、スタインウェイ賞受賞。2002年、千葉音楽コンクール全部門最優秀賞を史上最年少（小1）にて受賞。2005年、ピティナピアノコンペティション全国大会にて、Jr.G 級金賞受賞。2011年および2017年、ショパン国際コンクール in ASIA 中学生の部および大学・一般部門アジア大会にて金賞受賞、日本クラシック音楽コンクール大学男子の部、第3位(最高位)。これまでに国立ブラショフ・フィルハーモニー交響楽団、日本フィルハーモニー交響楽団オーケストラと共演。現在、東京大学情報理工学系研究科修士1年生。金子勝子、吉田友昭の各氏に師事。2018年9月より半年間、フランス音響音楽研究所 (IRCAM) にて機械学習を用いた自動採譜、自動編曲の研究に従事。フランス留学中にクレール・テゼール、ジャン＝マルク・ルイサダの各氏に師事。クラシックに留まらず、ジャズやゲーム音楽をYouTubeに投稿するなど、幅広く活動している。
-  en: Born in Chiba, Japan in 1995, Hayato SUMINO began studying piano at the age of three. He has won numerous awards, including the Gold Medal at the 2017 Chopin International Piano Competition for Asia, in the "Over 18" category, and the Grand Prix of the Japan National Piano Competition organized by PTNA - Piano Teachers National Association - in 2018. In addition, he has performed with various prestigious orchestras including the Japan Philharmonic Orchestra and the Brasov Philharmonic Orchestra (Romania). He trained in piano with Katsuko Kaneko and Tomoaki Yoshida in Japan, as well as Claire Désert and Jean-Marc Luisada in France. The 2018-19 season is rich in recitals. He has performed in several Japanese cities (Tokyo, Fukui, Osaka, Nagoya), and will give his next concerts in Vienna, Paris and Poland. Hayato SUMINO is not only a passionate pianist of music who plays his instrument with a remarkable technique, he also follows a scientific course within the University of Tokyo. After a degree in science he continued his studies on artificial intelligence in Master. Between September 2018 and January 2019, he studied at the Faculty of Sciences of Sorbonne University in Paris and conducted research at the Institute of Research and Coordination Acoustique / Musique (IRCAM) on artificial intelligence and music. Since February 2019, he has resumed his studies at the University of Tokyo, while continuing his career as a pianist.
-  fr: Né à Chiba au Japon en 1995, Hayato SUMINO a commencé à étudier le piano à l’âge de trois ans. Il a remporté de nombreux prix dont la Médaille d’or au Concours International de Piano Chopin pour l’Asie en 2017, dans la catégorie "plus de 18 ans", et le Grand Prix du concours national de piano au Japon organisé par PTNA -Piano Teachers National Association – en 2018. En outre, il s’est produit avec différents orchestres prestigieux dont l'Orchestre philharmonique du Japon et l'Orchestre philharmonique de Brasov (Roumanie). Il se forme en piano avec Katsuko Kaneko et Tomoaki Yoshida au Japon, ainsi que Claire Désert et Jean-Marc Luisada en France. La saison 2018-19 est riche en récitals. Il s’est produit dans plusieurs villes du Japon (Tokyo, Fukui, Osaka, Nagoya), et il donnera ses prochains concerts à Vienne, Paris et en Pologne. Hayato SUMINO n’est pas seulement un pianiste passionné de musique qui joue de son instrument avec une technique remarquable, il suit également un parcours scientifique au sein de l’Université de Tokyo. Après un baccalauréat en sciences il poursuit ses études sur l’intelligence artificielle en Master. Entre septembre 2018 et janvier 2019, il a étudié à la Faculté des Sciences de Sorbonne Université à Paris et mené des recherches à l'Institut de Recherche et Coordination Acoustique/Musique (IRCAM) sur l'intelligence artificielle et la musique. Depuis février 2019, il a repris ses études à l’Université de Tokyo, tout en poursuivant sa carrière de pianiste.
-
-
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
@@ -24,6 +18,7 @@ profile:
 # Build settings
 markdown: kramdown
 permalink: pretty
+future: true
 
 # ----------------------- #
 #   3rd Party Settings    #
@@ -37,7 +32,6 @@ social:
   - title: youtube
     url: https://www.youtube.com/user/chopin8810
 
-
 # Google-analytics
 google-analytics:
   id:               ""
@@ -47,44 +41,3 @@ languages: ['ja', 'en']
 default_lang: 'ja'
 exclude_from_localization: ['javascript', 'images', 'css']
 parallel_localization: false
-
-# ----------------------- #
-#   Concerts              #
-# ----------------------- #
-
-concerts:
-  - layout: default
-    img: 20190303.png
-    category: Concerts
-    title: PTNA福井支部入賞者コンサート（ゲスト出演）
-    content: 日時：3月3日（日）13時開演<br>会場：<a href="https://www.hhf.jp/">ハーモニーホールふくい</a><br> 料金：800円<br> 曲目：ショパン：スケルツォ1番<br>ラフマニノフ：ヴォーカリーズ Op.34-11<br>ショパン：ポロネーズ第6番 Op.53<br> リスト：ラ・カンパネラ
-
-  - layout: default
-    img: 20190316.png
-    category: Concerts
-    title: YAMAHA Salon Concert in Osaka　特級グランプリ褒賞演奏会
-    content: 日時：3月16日（土）14時開演<br>会場：<a href="https://jp.yamaha.com/sp/piano/dealers_showrooms/showrooms/gps_osaka/access/">ヤマハグランドピアノサロン大阪</a><br> 料金：無料（要予約）<br> 曲目：ベートーヴェン：ピアノ・ソナタ 第21番 ハ長調「ワルトシュタイン」 Op.53<br>ショパン：ポロネーズ第6番　変イ長調　Op.53<br>スクリャービン：ピアノ・ソナタ 第5番 Op.53 他
-
-  - layout: default
-    img: 20190317.png
-    category: Concerts
-    title: YAMAHA Salon Concert in Nagoya　特級グランプリ褒賞演奏会【完売】
-    content: 日時：3月17日（日）14時開演<br>会場：<a href="https://jp.yamaha.com/sp/piano/dealers_showrooms/showrooms/gps_nagoya/access/">ヤマハグランドピアノサロン名古屋</a><br> 料金：無料（要予約）<br> 曲目：ドビュッシー:喜びの島<br>フォーレ:ノクターン 第6番 Op.63 変ニ長調<br>ショパン：ピアノソナタ第2番 変ロ短調 Op.35 他
-
-  - layout: default
-    img: 20190320.png
-    category: Concerts
-    title: アグネスホール ランチタイムコンサート
-    content: 日時：3月20日（水）12時半開演<br>会場：<a href="https://www.agneshotel.com/access/">アグネスホテル東京B1F アグネスホール</a><br> 料金：無料（予約不要）<br> 曲目：カプースチン：フルート、チェロとピアノのための三重奏曲他
-
-  - layout: default
-    img: 20190324.png
-    category: Concerts
-    title: <a href="http://www.piano.or.jp/concert/yp/">第42回ピティナ・ピアノコンペティション入賞者記念コンサート</a>
-    content: 日時：3月24日（日）13時開演<br>会場：第一生命ホール<br>料金：一般3,500円 ピティナ会員・学生3,000円<br>曲目：カプースチン：フルート、チェロとピアノのための三重奏曲<br>リスト :死の舞踏（サン=サーンス） S.555 R.240
-
-  - layout: default
-    img: 20190425.png
-    category: Concerts
-    title: <a href="http://kawai-kmf.com/concert-info/2019/04.25/">2018年 ピティナ・ピアノコンペティション 特級入賞者コンサート</a>
-    content: 日時：4月25日（木）18時半開演<br>会場：カワイ表参道 コンサートサロン「パウゼ」<br>料金：一般 ￥3,000　ピティナ会員 ￥2,500　学生 ￥2,000 （全自由席）※KMF会員特典あり<br>曲目：ショパン：バラード２番<br>ラフマニノフ：ヴォーカリーズ Op.34-11<br>リスト：メフィスト・ワルツ

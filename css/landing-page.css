@@ -12,14 +12,20 @@ html {
 
 body,
 h1,
+{
+    font-family: "Lato","Helvetica Neue","Osaka",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
 h2,
 h3,
 h4,
 h5,
-h6 {
-    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+h6
+{
+    font-family: "Helvetica Neue", "Hiragino Kaku Gothic ProN", Meiryo, Helvetica,Arial,sans-serif;
+    font-weight: 550;
 }
+
 
 .lead {
     font-size: 18px;

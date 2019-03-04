@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 img: yamaha.png
 category: Services
 title: YAMAHA Pianist Lounge Interview

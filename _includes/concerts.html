@@ -1,12 +1,11 @@
 <section id="concerts">
 <!-- Page Content -->
-{% for post in site.concerts %}
+
+{% for post in page.concerts %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
     <div class="content-section-a">
-
         <div class="container">
-
             <div class="row">
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
@@ -15,7 +14,7 @@
                     <div class="lead">{{ post.content }}</div>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="/img/services/{{ post.img }}" alt="">
+                    <img class="img-responsive" src="/img/concerts/{{ post.img }}" alt="">
                 </div>
             </div>
 

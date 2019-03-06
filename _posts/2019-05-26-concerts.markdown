@@ -1,6 +1,7 @@
 ---
 layout: post
 img: 20190526.jpg
+img: 20190526-2.jpg
 category: Concerts
 title: 角野隼斗 ピアノリサイタル
 ---
@@ -30,5 +31,5 @@ title: 角野隼斗 ピアノリサイタル
 　　ヴォカリーズ Op.34-14 （コチシュ編曲） <br>
 　　ピアノソナタ 第2番 変ロ短調 Op.36 （1931年版） <br>
  <br>
-(曲目はやむを得ない事情により一部変更になる可能性もございます。)
+(曲目はやむを得ない事情により一部変更になる可能性もございます。) <br>
 <a href="https://www.facebook.com/events/428673891235603/">Facebook Page</a>

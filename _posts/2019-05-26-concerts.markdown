@@ -5,7 +5,7 @@ category: Concerts
 title: 角野隼斗 ピアノリサイタル
 ---
 2019年5月よりスタートする武蔵ホールの新シリーズ「若手演奏家リサイタルシリーズ」
-新進気鋭の若手演奏家をお迎えしリサイタルを開催する。記念すべき第1回は、昨年ピティナピアノコンペティションの特級グランプリに輝いた角野隼斗さんのピアノリサイタル。ご予約は<a href="https://t.pia.jp/pia/event/event.do?eventCd=1909033">こちら</a>
+新進気鋭の若手演奏家をお迎えしリサイタルを開催する。記念すべき第1回は、昨年ピティナピアノコンペティションの特級グランプリに輝いた角野隼斗さんのピアノリサイタル。ご予約は<a href="https://t.pia.jp/pia/event/event.do?eventCd=1909033">こちら</a><br>
  <br>
 日時：5月26日（日）19時開演 (18時半開場) <br>
 会場：<a href="https://www.musashihall.com">音降りそそぐ武蔵ホール</a> <br>
@@ -30,5 +30,5 @@ title: 角野隼斗 ピアノリサイタル
 	ヴォカリーズ Op.34-14 （コチシュ編曲） <br>
 	ピアノソナタ 第2番 変ロ短調 Op.36 （1931年版） <br>
  <br>
-Facebook Page: <br>
- <br>https://www.facebook.com/events/428673891235603/
+(曲目はやむを得ない事情により一部変更になる可能性もございます。)
+<a href="https://www.facebook.com/events/428673891235603/">Facebook Page</a>

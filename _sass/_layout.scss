@@ -141,7 +141,14 @@ footer {
 
 .post-title {
     line-height: 2;
-    text-decoration: underline;
+    // text-decoration: underline;
+}
+@media only screen and (max-device-width: 480px) {
+    h1.post-title,
+    {
+        font-weight: 550;
+        font-size: 25px;
+    }
 }
 
 .index-anchor {

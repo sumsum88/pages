@@ -4,7 +4,7 @@ img: 20190316.png
 category: Concerts
 title: YAMAHA Salon Concert in Osaka
 ---
-
+【完売御礼】 <br>
 日時：3月16日（土）14時開演 (16時終演予定)  <br>
 会場：<a href="https://jp.yamaha.com/sp/piano/dealers_showrooms/showrooms/gps_osaka/access/">ヤマハグランドピアノサロン大阪  </a>
 料金：無料（要予約）  <br>

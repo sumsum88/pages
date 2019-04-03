@@ -1,7 +1,7 @@
 ---
 layout: post
-img: 20190622.jpg
-img2: 20190622-2.jpg
+img: 20190622.png
+img2: 20190622-2.png
 category: Concerts
 title: 角野隼斗 ピアノリサイタル
 ---

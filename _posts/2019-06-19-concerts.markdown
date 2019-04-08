@@ -1,6 +1,7 @@
 ---
 layout: post
 img: 20190619.jpg
+img2: 20190619-2.jpg
 category: Concerts
 title: 江口 玲　ピアノリサイタル
 ---

@@ -38,9 +38,10 @@ featured_image: /images/about.png
 ## Links
 
 - [YouTube](https://www.youtube.com/user/chopin8810)
-- [twitter](https://twitter.com/880hz)
-- [instagram](https://www.instagram.com/8810hz/)
-- [facebook](https://www.facebook.com/%E8%A7%92%E9%87%8E%E9%9A%BC%E6%96%97-Hayato-Sumino-1108930259264225)
+- [Twitter](https://twitter.com/880hz)
+- [Instagram](https://www.instagram.com/8810hz/)
+- [Facebook](https://www.facebook.com/%E8%A7%92%E9%87%8E%E9%9A%BC%E6%96%97-Hayato-Sumino-1108930259264225)
+- [Warner Music Japan](https://wmg.jp/sumino-hayato/)
 
 <hr>
 

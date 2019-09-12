@@ -1,8 +1,0 @@
----
-layout: post
-img: cosmusica.png
-category: Services
-title: COSMUSICA Interview
-description: |
----
-  [COSMUSICA](https://cosmusica.net/?p=10775)にインタビューが掲載されました。(2018.10.5)

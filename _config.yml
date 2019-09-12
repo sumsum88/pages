@@ -1,54 +1,58 @@
-# ----------------------- #
-#      Main Configs       #
-# ----------------------- #
+site: Hayato Sumino Official Website
 
-url: hayatosum.com
-title: 角野隼斗 Hayato Sumino Official Website
-lefttop: Hayato Sumino
-email: hay88.sum10ms@gmail.com
-author: Hayato Sumino
-description: ピアニスト角野隼斗のオフィシャルホームページです。1995年生まれ。2018年、ピティナピアノコンペティション特級グランプリ、及び文部科学大臣賞、スタインウェイ賞受賞。現在、東京大学情報理工学系研究科修士1年生。
-copyright: 'Copyright &copy; 2019 Hayato Sumino. All Rights Reserved.'
-lang: ja
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  # concerts:
+    # output: true
+    # permalink: /concerts/:slug
+  posts:
+    output: true
+    permalink: /concerts/:slug
+  projects:
+    output: true
+    permalink: /info/:slug
 
-# ----------------------- #
-#    Jekyll & Plugins     #
-# ----------------------- #
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
 
-# Build settings
+
 markdown: kramdown
-permalink: pretty
-future: true
 
-# ----------------------- #
-#   3rd Party Settings    #
-# ----------------------- #
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
-social:
-  - title: twitter
-    url: https://twitter.com/880hz
-  - title: instagram
-    url: https://www.instagram.com/8810hz/
-  - title: youtube
-    url: https://www.youtube.com/user/chopin8810
-
-# Google-analytics
-google-analytics:
-  id:               ""
-
-# might not be needed
-languages: ['ja', 'en']
-default_lang: 'ja'
-exclude_from_localization: ['javascript', 'images', 'css']
-parallel_localization: false
-
-# for seo
-twitter:
-  username: 880hz
-facebook:
-  app_id: hayato.sumino.7
-  publisher: https://www.facebook.com/Hayato-Sumino-1108930259264225
-logo: /img/logo.png
+sass:
+  style: compressed
 
 plugins:
-  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+
+paginate: 6
+# paginate_path: "/blog/page:num/"
+paginate_path: "/concerts/page:num/"

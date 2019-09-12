@@ -1,4 +1,0 @@
----
-layout: concerts
-permalink: /concerts/
----

@@ -1,0 +1,72 @@
+---
+layout: default
+title: Hayato Sumino
+description: ピアニスト角野隼斗のオフィシャルサイトです。Hayato Sumino Official Website かてぃん(Cateen)
+featured_image: /images/home.png
+---
+
+<section class="hero">
+
+	<div class="hero__image" style="background-image: url({{ page.featured_image }})">
+		<div class="hero__overlay"></div>
+	</div>
+
+	<div class="wrap">
+
+		<h1>Hayato Sumino Official Website</h1>
+		<p>角野隼斗 オフィシャルウェブサイト</p>
+
+		{% include socials.html %}
+
+	</div>
+
+</section>
+
+<section class="listing">
+
+	<div class="wrap">
+
+		{% for project in site.projects reversed %}
+
+		<article class="post">
+
+			<div class="post__image-wrap">
+				<div class="post__image" style="background-image: url({{ project.featured_image }})"></div>
+			</div>
+
+			<div class="post__content-wrap">
+				<div class="post__content">
+					<h2 class="post__title"><a href="{{ project.url }}">{{ project.title }}</a></h2>
+					<p class="post__subtitle">{{ project.subtitle }}</p>
+					<p class="post__description">{{ project.description }}</p>
+				</div>
+			</div>
+
+		</article>
+
+		{% endfor %}
+
+	</div>
+</section>
+
+<section>
+	<!-- <div style="margin:10px;">
+	</div> -->
+
+  <div class="wrap">
+		<div class="col-md-4">
+		<a class="twitter-timeline" width="100%" height="400px" href="https://twitter.com/880hz?ref_src=twsrc%5Etfw">Tweets by 880hz</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+		</div>
+
+		<div class="col-md-4">
+		    <!-- InstaWidget -->
+		    <!-- <a href="https://instawidget.net/v/user/8810hz" id="link-479711053c44bd36104f9d6871b75f799a22fb82fc3ee330cfa3be8624273bfb">@8810hz</a>
+		    <script src="https://instawidget.net/js/instawidget.js?u=479711053c44bd36104f9d6871b75f799a22fb82fc3ee330cfa3be8624273bfb&width=100%"></script> -->
+		</div>
+		<div class="col-md-4">
+		    <div id="fb-root"></div>
+		    <script async defer src="https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v3.2"></script>
+		    <div class="fb-page" data-href="https://www.facebook.com/&#x89d2;&#x91ce;&#x96bc;&#x6597;-Hayato-Sumino-1108930259264225/" data-tabs="timeline" data-width="300" data-height="400" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/&#x89d2;&#x91ce;&#x96bc;&#x6597;-Hayato-Sumino-1108930259264225/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/&#x89d2;&#x91ce;&#x96bc;&#x6597;-Hayato-Sumino-1108930259264225/">角野隼斗 Hayato Sumino</a></blockquote></div>
+		</div>
+	</div>
+</section>

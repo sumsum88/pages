@@ -1,6 +1,6 @@
 ---
 title: About me
-subtitle: Hayato Sumino Profile
+subtitle: プロフィール
 description: 角野 隼斗 プロフィール Hayato Sumino Profile
 featured_image: /images/about.png
 ---

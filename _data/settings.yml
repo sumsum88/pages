@@ -79,11 +79,11 @@ color_settings:
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Muli:300,400,600,700" rel="stylesheet">'
-  # font_embed: '<link href="https://fonts.googleapis.com/css?family=Barlow%20Condensed:300,400,600,700" rel="stylesheet">'
+  # font_embed: '<link href="https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed:300,400,600,700&display=swap" rel="stylesheet">'
   title_font: '"Muli", sans-serif'
-  # title_font: '"Barlow Condensed", sans-serif'
+  # title_font: '"Barlow Semi Condensed", sans-serif'
   body_font: '"Muli", sans-serif'
-  # body_font: '"Barlow Condensed", sans-serif'
+  # body_font: '"Barlow Semi Condensed", sans-serif'
   regular_weight: 400
   bold_weight: 600
   site_title:

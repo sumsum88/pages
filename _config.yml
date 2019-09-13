@@ -52,7 +52,21 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 paginate: 6
 # paginate_path: "/blog/page:num/"
 paginate_path: "/concerts/page:num/"
+
+
+# Google-analytics
+google-analytics:
+  id:               ""
+
+# for seo
+twitter:
+  username: 880hz
+facebook:
+  app_id: hayato.sumino.7
+  publisher: https://www.facebook.com/Hayato-Sumino-1108930259264225
+logo: /img/logo.png

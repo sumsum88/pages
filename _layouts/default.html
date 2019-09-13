@@ -54,6 +54,7 @@
 	<style>{{ site.data.settings.advanced_settings.custom_styles }}</style>
 	{% endif %}
 
+
 	{% if site.data.settings.advanced_settings.analytics_code %}
 	<!-- Analytics Code -->
 	{{ site.data.settings.advanced_settings.analytics_code }}
@@ -101,7 +102,7 @@
 	{{ site.data.settings.advanced_settings.footer_js }}
 	{% endif %}
 
-
+  {% if site.analytics %}{% include analytics.html %}{% endif %}
 </body>
 
 </html>

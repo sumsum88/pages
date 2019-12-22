@@ -1,8 +1,7 @@
 ---
 title: 「eplus LIVING ROOM CAFE ＆ DINING」“サンデー・ブランチ・クラシック”角野隼斗【完売】
 date: 2019-12-21 00:00:00
-description: 日時：2020年1月5日（日）開演：13時 <br>会場：eplus LIVING ROOM CAFE ＆ DINING（渋谷区）
-[https://livingroomcafe.jp/](http://livingroomcafe.jp/)
+description: 日時：2020年1月5日（日）開演：13時 <br>会場：eplus LIVING ROOM CAFE ＆ DINING（渋谷区）[https://livingroomcafe.jp/](http://livingroomcafe.jp/)
 featured_image: '/images/concerts/20200105.jpeg'
 ---
 

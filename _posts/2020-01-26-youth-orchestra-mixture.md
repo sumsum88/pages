@@ -1,11 +1,11 @@
 ---
 title: YOUTH ORCHESTRA MIXTURE 第1回定期演奏会
 date: 2019-12-21 00:00:00
-description: 日時：1月26日（日）開演：14時　開場：13時30分<br>会場：大宮ソニックシティ 大ホール<br>出演：杉野政仁（指揮）角野隼斗（ピアノ）大谷真結子（コンサートミストレス）<br>Youth Orchestra Mixture
-featured_image: '/images/concerts/'
+description: 日時：1月26日（日）<br>開演：14時　開場：13時30分<br>会場：大宮ソニックシティ 大ホール<br>出演：杉野政仁（指揮）角野隼斗（ピアノ）大谷真結子（コンサートミストレス）<br>Youth Orchestra Mixture
+featured_image: '/images/concerts/20200126-01.png'
 ---
 
-![](/images/concerts/)
+![](/images/concerts/20200126-01.png)
 
 ピティナ・ピアノコンペティション　特級グランプリ受賞の若きピアニスト・角野隼斗と，同世代の音楽を愛する仲間が集まった楽団　Youth Orchestra Mixtureが競演！
 
@@ -27,3 +27,5 @@ featured_image: '/images/concerts/'
 学生券をお求めの際，当日学生証（小・中・高・大学・大学院・専門,専修学校・ビジネススクール）の提示をお願いする場合があります。未就学者の入場は固くお断りしております。
 
 <a href="https://www.youth-orch-mix.com/%E3%83%81%E3%82%B1%E3%83%83%E3%83%88%E6%83%85%E5%A0%B1/" class="button button--large">購入はこちら</a>
+
+![](/images/concerts/20200126-02.png)

@@ -2,10 +2,10 @@
 title: 蜜蜂と遠雷コンサート
 date: 2019-12-21 00:00:00
 description: 日時：2020年1月18日（土）開演：14時　開場：13時15分 <br>会場：ザ・シンフォニーホール（大阪）出演：［指揮］松沼俊彦　［ピアノ］角野隼斗 / 小井戸文哉 / 宮野志織［管弦楽］STAND UP! ORCHESTRA
-featured_image: '/images/concerts/20200118.pdf'
+featured_image: '/images/concerts/20200118.png'
 ---
 
-![](/images/concerts/20200118.pdf)
+![](/images/concerts/20200118.png)
 
 2019年10月に公開され大ヒットを記録している映画を記念して「蜜蜂と遠雷コンサート」 を開催。
 
@@ -22,6 +22,6 @@ featured_image: '/images/concerts/20200118.pdf'
 
 ※演出の都合上、変更になる場合がございます。
 
-##チケット情報
+## チケット情報
 全席指定：¥6,000
 <a href="https://eplus.jp/sf/detail/3153060001" class="button button--large">購入はこちら</a>

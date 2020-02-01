@@ -2,9 +2,9 @@
 title: 蜜蜂と遠雷コンサート 愛知公演
 date: 2020-01-29 00:00:00
 description: 日時：5月6日(水・祝) <br>開場 15：30 開演16：00<br>会場：春日井市民会館<br>出演：<br>[指揮] 松沼俊彦<br> [ピアノ] 角野隼斗/宮野志織/他<br> [管弦楽] STAND UP! ORCHESTRA
-featured_image: '/images/concerts/20200506.jpg'
+featured_image: '/images/concerts/20200506-3.jpg'
 ---
-![](/images/concerts/20200506.jpg)
+![](/images/concerts/20200506-3.jpg)
 
 愛知公演
 

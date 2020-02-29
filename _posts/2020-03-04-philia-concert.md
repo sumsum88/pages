@@ -1,9 +1,11 @@
 ---
-title: 角野隼斗ピアノリサイタル「PHILIA」【完売】
+title: 角野隼斗ピアノリサイタル「PHILIA」【延期】
 date: 2019-12-29 00:00:00
 description: 日時：3月4日(水)<br>開演：19時 開場：18時30分<br>会場：フィリアホール(神奈川県)
 featured_image: '/images/concerts/20200304.png'
 ---
+![](/images/concerts/20200304_enki.png)
+
 ![](/images/concerts/20200304.png)
 
 PHILIAは古代ギリシャ語で「友愛」。大切な人、仲間を想う気持ちが溢れるような、切なく美しい曲を集めました。

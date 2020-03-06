@@ -16,6 +16,8 @@ menu_settings:
       url: '/concerts/'
     - title: 'Blog'
       url: 'https://note.mu/880hz'
+    - title: 'Store'
+      url: 'https://hayatosum.theshop.jp'
     - title: 'Videos'
       url: 'https://www.youtube.com/user/chopin8810'
     - title: 'Contact'
@@ -32,7 +34,7 @@ post_settings:
   grid_spacing: 10
 
 contact_settings:
-  form_action: 'https://formspree.io/hay88.sum10ms@gmail.com'
+  form_action: 'https://formspree.io/meqkvqow'  # to hayato.sumino.staff@gmail.com
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'

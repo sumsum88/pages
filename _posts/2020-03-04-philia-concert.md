@@ -1,18 +1,12 @@
 ---
-title: 角野隼斗ピアノリサイタル「PHILIA」【振替公演】
+title: 【延期】【中止】角野隼斗ピアノリサイタル「PHILIA」
 date: 2019-12-29 00:00:00
-description: 日時：5月11日(月)<br>開演：19時 開場：18時30分<br>会場：フィリアホール(神奈川県)
+description: 日時：3月4日(水)<br>開演：19時 開場：18時30分<br>会場：フィリアホール(神奈川県)
 featured_image: '/images/concerts/20200304.png'
 ---
-![](/images/concerts/20200304_furikae.jpg)
+![](/images/concerts/20200304_enki.png)
 
 ![](/images/concerts/20200304.png)
-
-お手持ちのチケットにて振替公演に入場可能となりますので、振替公演日までにチケットを紛失されぬようお気をつけください。
-
-チケット払い戻しについては
-<a href="http://www.rockandhill.com/news/news-sumino-0306-1.html" class="button button--large">こちら</a>
-（受付期間 3月7日(土)10:00 ～ 3月31日(火)23:59）
 
 PHILIAは古代ギリシャ語で「友愛」。大切な人、仲間を想う気持ちが溢れるような、切なく美しい曲を集めました。
 
